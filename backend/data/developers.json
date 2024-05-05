@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "location": "Bangalore",
+    "year_of_experience": 5,
+    "tech_stacks": ["React.js", "Node.js"],
+    "role": "Backend Developer"
+  },
+  {
+    "id": 2,
+    "name": "Alice Smith",
+    "location": "Mumbai",
+    "year_of_experience": 7,
+    "tech_stacks": ["Python", "Django"],
+    "role": "Backend Developer"
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "location": "Delhi",
+    "year_of_experience": 4,
+    "tech_stacks": ["Java", "Spring Boot"],
+    "role": "Backend Developer"
+  },
+  {
+    "id": 4,
+    "name": "Emily Brown",
+    "location": "Pune",
+    "year_of_experience": 6,
+    "tech_stacks": ["JavaScript", "Express.js"],
+    "role": "Backend Developer"
+  },
+  {
+    "id": 5,
+    "name": "Alex Wilson",
+    "location": "Chennai",
+    "year_of_experience": 3,
+    "tech_stacks": ["Angular", "MongoDB"],
+    "role": "Frontend Developer"
+  },
+  {
+    "id": 6,
+    "name": "Sophia Lee",
+    "location": "Hyderabad",
+    "year_of_experience": 8,
+    "tech_stacks": ["Vue.js", "Firebase"],
+    "role": "Frontend Developer"
+  },
+  {
+    "id": 7,
+    "name": "Michael Garcia",
+    "location": "Kolkata",
+    "year_of_experience": 5,
+    "tech_stacks": ["HTML", "CSS"],
+    "role": "Frontend Developer"
+  },
+  {
+    "id": 8,
+    "name": "Emma Martinez",
+    "location": "Ahmedabad",
+    "year_of_experience": 6,
+    "tech_stacks": ["React Native", "Redux"],
+    "role": "Mobile App Developer"
+  },
+  {
+    "id": 9,
+    "name": "Liam Robinson",
+    "location": "Jaipur",
+    "year_of_experience": 4,
+    "tech_stacks": ["Swift", "Objective-C"],
+    "role": "Mobile App Developer"
+  },
+  {
+    "id": 10,
+    "name": "Olivia Taylor",
+    "location": "Surat",
+    "year_of_experience": 7,
+    "tech_stacks": ["Kotlin", "Java"],
+    "role": "Mobile App Developer"
+  },
+  {
+    "id": 11,
+    "name": "Noah White",
+    "location": "Lucknow",
+    "year_of_experience": 5,
+    "tech_stacks": ["AWS", "Docker"],
+    "role": "DevOps Engineer"
+  },
+  {
+    "id": 12,
+    "name": "Ava Brown",
+    "location": "Kanpur",
+    "year_of_experience": 6,
+    "tech_stacks": ["Jenkins", "Ansible"],
+    "role": "DevOps Engineer"
+  },
+  {
+    "id": 13,
+    "name": "Ethan Harris",
+    "location": "Nagpur",
+    "year_of_experience": 3,
+    "tech_stacks": ["Terraform", "Kubernetes"],
+    "role": "DevOps Engineer"
+  },
+  {
+    "id": 14,
+    "name": "Isabella Clark",
+    "location": "Indore",
+    "year_of_experience": 4,
+    "tech_stacks": ["GCP", "Chef"],
+    "role": "Cloud Networking Engineer"
+  },
+  {
+    "id": 15,
+    "name": "Mason Rodriguez",
+    "location": "Thane",
+    "year_of_experience": 5,
+    "tech_stacks": ["Azure", "Terraform"],
+    "role": "Cloud Networking Engineer"
+  },
+  {
+    "id": 16,
+    "name": "Charlotte Evans",
+    "location": "Visakhapatnam",
+    "year_of_experience": 6,
+    "tech_stacks": ["OpenStack", "SaltStack"],
+    "role": "Cloud Networking Engineer"
+  },
+  {
+    "id": 17,
+    "name": "Ella Jones",
+    "location": "Noida",
+    "year_of_experience": 4,
+    "tech_stacks": ["C#", ".NET"],
+    "role": "Backend Developer"
+  },
+  {
+    "id": 18,
+    "name": "William Baker",
+    "location": "Gurgaon",
+    "year_of_experience": 7,
+    "tech_stacks": ["PHP", "Laravel"],
+    "role": "Backend Developer"
+  },
+  {
+    "id": 19,
+    "name": "Grace Hill",
+    "location": "Ahmedabad",
+    "year_of_experience": 6,
+    "tech_stacks": ["Ruby", "Rails"],
+    "role": "Backend Developer"
+  },
+  {
+    "id": 20,
+    "name": "James Cook",
+    "location": "Pune",
+    "year_of_experience": 5,
+    "tech_stacks": ["Scala", "Play Framework"],
+    "role": "Backend Developer"
+  },
+  {
+    "id": 21,
+    "name": "Aiden Green",
+    "location": "Chennai",
+    "year_of_experience": 3,
+    "tech_stacks": ["Vue.js", "MySQL"],
+    "role": "Frontend Developer"
+  },
+  {
+    "id": 22,
+    "name": "Charlotte Wilson",
+    "location": "Hyderabad",
+    "year_of_experience": 8,
+    "tech_stacks": ["Angular", "PostgreSQL"],
+    "role": "Frontend Developer"
+  },
+  {
+    "id": 23,
+    "name": "Michael Brown",
+    "location": "Kolkata",
+    "year_of_experience": 5,
+    "tech_stacks": ["React.js", "MongoDB"],
+    "role": "Frontend Developer"
+  },
+  {
+    "id": 24,
+    "name": "Ella Lee",
+    "location": "Jaipur",
+    "year_of_experience": 4,
+    "tech_stacks": ["JavaScript", "SQLite"],
+    "role": "Frontend Developer"
+  },
+  {
+    "id": 25,
+    "name": "Oliver Evans",
+    "location": "Lucknow",
+    "year_of_experience": 7,
+    "tech_stacks": ["React Native", "Firebase"],
+    "role": "Mobile App Developer"
+  },
+  {
+    "id": 26,
+    "name": "Ava Smith",
+    "location": "Kanpur",
+    "year_of_experience": 6,
+    "tech_stacks": ["Swift", "Core Data"],
+    "role": "Mobile App Developer"
+  },
+  {
+    "id": 27,
+    "name": "Ethan Jones",
+    "location": "Nagpur",
+    "year_of_experience": 3,
+    "tech_stacks": ["Java", "Android Studio"],
+    "role": "Mobile App Developer"
+  },
+  {
+    "id": 28,
+    "name": "Emma White",
+    "location": "Indore",
+    "year_of_experience": 4,
+    "tech_stacks": ["Flutter", "Dart"],
+    "role": "Mobile App Developer"
+  },
+  {
+    "id": 29,
+    "name": "Noah Miller",
+    "location": "Thane",
+    "year_of_experience": 5,
+    "tech_stacks": ["Docker", "Kubernetes"],
+    "role": "DevOps Engineer"
+  },
+  {
+    "id": 30,
+    "name": "Isabella Davis",
+    "location": "Visakhapatnam",
+    "year_of_experience": 6,
+    "tech_stacks": ["Jenkins", "Terraform"],
+    "role": "DevOps Engineer"
+  },
+  {
+    "id": 31,
+    "name": "Mason Clark",
+    "location": "Noida",
+    "year_of_experience": 4,
+    "tech_stacks": ["AWS", "Ansible"],
+    "role": "DevOps Engineer"
+  },
+  {
+    "id": 32,
+    "name": "Charlotte Hall",
+    "location": "Gurgaon",
+    "year_of_experience": 7,
+    "tech_stacks": ["Google Cloud", "Chef"],
+    "role": "DevOps Engineer"
+  },
+  {
+    "id": 33,
+    "name": "Liam Bell",
+    "location": "Bangalore",
+    "year_of_experience": 5,
+    "tech_stacks": ["Azure", "Puppet"],
+    "role": "Cloud Networking Engineer"
+  },
+  {
+    "id": 34,
+    "name": "Olivia Murphy",
+    "location": "Mumbai",
+    "year_of_experience": 6,
+    "tech_stacks": ["OpenStack", "SaltStack"],
+    "role": "Cloud Networking Engineer"
+  },
+  {
+    "id": 35,
+    "name": "Noah Rivera",
+    "location": "Delhi",
+    "year_of_experience": 3,
+    "tech_stacks": ["VMware", "Nagios"],
+    "role": "Cloud Networking Engineer"
+  },
+  {
+    "id": 36,
+    "name": "Emma Wood",
+    "location": "Pune",
+    "year_of_experience": 4,
+    "tech_stacks": ["Cisco", "Juniper"],
+    "role": "Cloud Networking Engineer"
+  },
+  {
+    "id": 37,
+    "name": "Aiden Hill",
+    "location": "Chennai",
+    "year_of_experience": 8,
+    "tech_stacks": ["React.js", "Redux"],
+    "role": "Frontend Developer"
+  },
+  {
+    "id": 38,
+    "name": "Oliver Turner",
+    "location": "Hyderabad",
+    "year_of_experience": 5,
+    "tech_stacks": ["Angular", "RxJS"],
+    "role": "Frontend Developer"
+  },
+  {
+    "id": 39,
+    "name": "Ella Adams",
+    "location": "Kolkata",
+    "year_of_experience": 6,
+    "tech_stacks": ["Vue.js", "Vuex"],
+    "role": "Frontend Developer"
+  },
+  {
+    "id": 40,
+    "name": "William Cooper",
+    "location": "Ahmedabad",
+    "year_of_experience": 4,
+    "tech_stacks": ["JavaScript", "TypeScript"],
+    "role": "Frontend Developer"
+  },
+  {
+    "id": 41,
+    "name": "Grace Murphy",
+    "location": "Jaipur",
+    "year_of_experience": 7,
+    "tech_stacks": ["HTML", "CSS"],
+    "role": "Mobile App Developer"
+  },
+  {
+    "id": 42,
+    "name": "James Price",
+    "location": "Surat",
+    "year_of_experience": 5,
+    "tech_stacks": ["React Native", "Redux"],
+    "role": "Mobile App Developer"
+  },
+  {
+    "id": 43,
+    "name": "Charlotte Howard",
+    "location": "Lucknow",
+    "year_of_experience": 3,
+    "tech_stacks": ["Swift", "Core Data"],
+    "role": "Mobile App Developer"
+  },
+  {
+    "id": 44,
+    "name": "Oliver Evans",
+    "location": "Kanpur",
+    "year_of_experience": 4,
+    "tech_stacks": ["Kotlin", "Java"],
+    "role": "Mobile App Developer"
+  },
+  {
+    "id": 45,
+    "name": "Ella Gray",
+    "location": "Nagpur",
+    "year_of_experience": 8,
+    "tech_stacks": ["Python", "Django"],
+    "role": "Backend Developer"
+  },
+  {
+    "id": 46,
+    "name": "William Foster",
+    "location": "Indore",
+    "year_of_experience": 5,
+    "tech_stacks": ["Ruby", "Rails"],
+    "role": "Backend Developer"
+  },
+  {
+    "id": 47,
+    "name": "Grace Bailey",
+    "location": "Thane",
+    "year_of_experience": 6,
+    "tech_stacks": ["PHP", "Symfony"],
+    "role": "Backend Developer"
+  },
+  {
+    "id": 48,
+    "name": "James Perry",
+    "location": "Visakhapatnam",
+    "year_of_experience": 4,
+    "tech_stacks": ["Java", "Spring Boot"],
+    "role": "Backend Developer"
+  },
+  {
+    "id": 49,
+    "name": "Emma Watson",
+    "location": "Noida",
+    "year_of_experience": 7,
+    "tech_stacks": ["JavaScript", "Express.js"],
+    "role": "Backend Developer"
+  },
+  {
+    "id": 50,
+    "name": "Aiden Richardson",
+    "location": "Gurgaon",
+    "year_of_experience": 3,
+    "tech_stacks": ["C#", ".NET"],
+    "role": "Backend Developer"
+  }
+]
